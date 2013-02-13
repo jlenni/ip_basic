@@ -1,0 +1,67 @@
+name = Basic
+description = Install with commonly used features pre-configured.
+version = VERSION
+core = 7.x
+
+; ---- Core modules ---------
+
+dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = toolbar
+dependencies[] = overlay
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+
+
+; ---- Contrib Modules --------
+
+dependencies[] = backup_migrate
+dependencies[] = ckeditor
+dependencies[] = colorbox
+dependencies[] = ctools
+dependencies[] = date
+dependencies[] = devel
+dependencies[] = diff
+dependencies[] = ds
+dependencies[] = email
+dependencies[] = entity
+dependencies[] = extlink
+dependencies[] = features
+dependencies[] = field_group
+dependencies[] = filefield_sources
+dependencies[] = insert
+dependencies[] = globalredirect
+dependencies[] = googleanalytics
+dependencies[] = i18n
+dependencies[] = imageapi
+dependencies[] = libraries
+dependencies[] = link
+dependencies[] = menu_block
+dependencies[] = menu_position
+dependencies[] = node_reference
+dependencies[] = pathauto
+dependencies[] = rules
+dependencies[] = references
+dependencies[] = strongarm
+dependencies[] = token
+dependencies[] = transliteration
+dependencies[] = variable
+dependencies[] = variable_admin
+dependencies[] = views
+dependencies[] = views_ui
+dependencies[] = webform
