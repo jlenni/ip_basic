@@ -42,6 +42,7 @@ dependencies[] = email
 dependencies[] = entity
 dependencies[] = extlink
 dependencies[] = features
+dependencies[] = fences
 dependencies[] = field_group
 dependencies[] = filefield_sources
 dependencies[] = insert
